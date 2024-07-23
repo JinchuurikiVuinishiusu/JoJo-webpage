@@ -64,9 +64,9 @@ li {
     display: flex;
     flex-direction: column;
     padding: 120px 110px 163px;
-    align-items: center;
+    
     justify-content: center;
-    margin-right: 400px;
+    margin-left: 250px;
     margin-top: 250px;
 }
 
