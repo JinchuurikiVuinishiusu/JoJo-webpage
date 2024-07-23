@@ -7,12 +7,13 @@
     background-image: url(jojo_background.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 1900px 800px;
+    background-size: 100% 100%;
     display: flex;
     flex-direction: column;
     height: 800px;
-    
 }
+
+
 
 #header {
     border-bottom-left-radius: 8px;
@@ -63,10 +64,10 @@ li {
     display: flex;
     flex-direction: column;
     padding: 120px 110px 163px;
-    align-items: left;
+    align-items: center;
     justify-content: center;
-    margin-left: 220px;
-    margin-top: 220px;
+    margin-right: 400px;
+    margin-top: 250px;
 }
 
 .phrase1 {
@@ -180,6 +181,7 @@ h2 {
     padding-bottom: 100px;
     padding-top: 100px;
     padding-left: 300px;
+    align-items: center;
 }
 
 .container {
@@ -190,6 +192,7 @@ h2 {
     padding: 50px;
     background-color: #652299;
     width: 1200px;
+    margin-right: 310px;
 }
 
 
